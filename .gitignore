@@ -1,10 +1,19 @@
-.idea
-data
 venv/
 .venv/
 __pycache__/
 *.pyc
 .idea/
-gto_students.json
-data/
+.vscode/
 
+*.csv
+
+# секреты
+data/
+data
+*.ini
+
+# результаты парсинга
+gto_students.json
+gto_matches.csv
+enroll_log.csv
+pupils.csv
