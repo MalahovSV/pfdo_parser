@@ -1,2 +1,10 @@
-*/__pycache__
+.idea
 data
+venv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+gto_students.json
+data/
+
